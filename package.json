@@ -4,7 +4,7 @@
   "devDependencies": {
     "@popperjs/core": "^2.10.2",
     "autoprefixer": "^10.4.20",
-    "jquery": "3.7.1",
+    "jquery": "4.0.0",
     "bootstrap": "^5.3.3",
     "browser-sync": "^3.0.2",
     "cssnano": "^7.0.4",
